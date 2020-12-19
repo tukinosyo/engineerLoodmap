@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<div>
+<item>
+<jobId>1</jobId>
+ <contentTitle>web開発</contentTitle>
+ <panelDiscription>webの開発を行う</panelDiscription>
+ <photo>./picture/webDevelop.jpg</photo>
+ <links>./web_develop.html</links>
+</item>
+<item>
+<jobId>2</jobId>
+ <contentTitle>システム開発</contentTitle>
+ <panelDiscription>システムの開発を行う</panelDiscription>
+ <photo>./picture/systemDevelop.jpg</photo>
+ <links>a</links>
+</item>
+<item>
+<jobId>3</jobId>
+ <contentTitle>組み込み系開発</contentTitle>
+ <panelDiscription>組み込み系の開発を行う</panelDiscription>
+ <photo>./picture/built-inDevelop.jpg</photo>
+ <links>a</links>
+</item>
+<item>
+<jobId>4</jobId>
+ <contentTitle>ゲーム開発</contentTitle>
+ <panelDiscription>ゲーム開発を行う</panelDiscription>
+ <photo>./picture/gameDevelop.jpg</photo>
+ <links>./game_develop.html</links>
+</item>
+<item>
+<jobId>5</jobId>
+ <contentTitle>アプリケーション開発</contentTitle>
+ <panelDiscription>アプリケーション開発を行う</panelDiscription>
+ <photo>./picture/applicationDevelop.jpg</photo>
+ <links>./application_develop.html</links>
+</item>
+</div>

@@ -1,0 +1,14 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+
+.object {
+  -o-object-fit: cover;
+     object-fit: cover;
+}
+
+text {
+  cursor: pointer;
+}
+/*# sourceMappingURL=web_development.css.map */

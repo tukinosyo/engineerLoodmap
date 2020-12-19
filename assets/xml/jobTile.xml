@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<div>
+<item>
+<jobTypeId>1</jobTypeId>
+<title>神PG</title>
+ <discription>人の域を超えたプログラマー</discription>
+ <difficulty>⭐️⭐️⭐️⭐️⭐️</difficulty>
+ <ability>極限の論理的思考力。究極のプログラミング能力</ability>
+</item>
+<item>
+<jobTypeId>2</jobTypeId>
+<title>PM</title>
+ <discription>プロジェクト全体の調整を行い、遅れがないように進める。</discription>
+ <difficulty>⭐️⭐️⭐️⭐️</difficulty>
+ <ability>コミュニケーション能力。幅広い技術力</ability>
+</item>
+<item>
+<jobTypeId>3</jobTypeId>
+<title>デザイナー</title>
+ <discription>HTML,CSSを駆使して、より見た目がいいUIを構築する。</discription>
+ <difficulty>⭐️⭐️⭐️</difficulty>
+ <ability>デザインセンス、HTML、CSS、SASS、git、bootstrap</ability>
+</item>
+<item>
+<jobTypeId>4</jobTypeId>
+<title>フロントエンドエンジニア</title>
+ <discription>画面全体の機能実装。</discription>
+ <difficulty>⭐️⭐️⭐️⭐️</difficulty>
+ <ability>HTML、CSS、SASS、git、bootstrap、javascript,及び各フレームワーク</ability>
+</item>
+<item>
+<jobTypeId>5</jobTypeId>
+<title>バックエンドエンジニア</title>
+ <discription>web画面の裏側の環境を構築する。</discription>
+ <difficulty>⭐️⭐️⭐️⭐️</difficulty>
+ <ability>javascript、php、各フレームワーク</ability>
+</item>
+<item>
+<jobTypeId>6</jobTypeId>
+<title>コーダー</title>
+ <discription>html、cssを用いて、画面を構築する。</discription>
+ <difficulty>⭐️⭐️</difficulty>
+ <ability>HTML、CSS、SASS、git、bootstrap</ability>
+</item>
+<item>
+<jobTypeId>7</jobTypeId>
+<title>その他</title>
+ <discription>web画面のテスト、エクセルでの資料作り、たまにコードの修正</discription>
+ <difficulty>⭐️</difficulty>
+ <ability>積極性</ability>
+</item>
+<item>
+<jobTypeId>8</jobTypeId>
+<title>サーバー構築</title>
+ <discription>awsやazureを用いてweb制作に必要な環境を整える</discription>
+ <difficulty>⭐️〜⭐️⭐️⭐️</difficulty>
+ <ability>クラウドの知識、AWS、AZUREなど</ability>
+</item>
+<item>
+<jobTypeId>9</jobTypeId>
+<title>ゲームテスター</title>
+ <discription>リリース前のゲームのでバックのテストをする</discription>
+ <difficulty>⭐️</difficulty>
+ <ability>気合い</ability>
+</item>
+<item>
+<jobTypeId>10</jobTypeId>
+<title>ゲームプログラマー</title>
+ <discription>html、cssを用いて、画面を構築する。</discription>
+ <difficulty>⭐️⭐️⭐️⭐️</difficulty>
+ <ability>c#、c++、javascript、swift、Ruby</ability>
+</item>
+<item>
+<jobTypeId>11</jobTypeId>
+<title>デザイナー</title>
+ <discription>web画面のテスト、エクセルでの資料作り、たまにコードの修正</discription>
+ <difficulty>⭐️</difficulty>
+ <ability>積極性</ability>
+</item>
+<item>
+<jobTypeId>12</jobTypeId>
+<title>ゲームディレクター</title>
+ <discription>ゲームの全体的な構成を考える</discription>
+ <difficulty>⭐️⭐️⭐️⭐️</difficulty>
+ <ability>究極のエンターテイメント性、予算管理</ability>
+</item>
+<item>
+<jobTypeId>13</jobTypeId>
+<title>ゲームプロデューサー</title>
+ <discription>awsやazureを用いてweb制作に必要な環境を整える</discription>
+ <difficulty>⭐️⭐️⭐️⭐️</difficulty>
+ <ability>予算管理、プロジェクトのスケジュール調整等</ability>
+</item>
+<item>
+<jobTypeId>14</jobTypeId>
+<title>テスター</title>
+ <discription>awsやazureを用いてweb制作に必要な環境を整える</discription>
+ <difficulty>⭐️⭐️⭐️⭐️</difficulty>
+ <ability>予算管理、プロジェクトのスケジュール調整等</ability>
+</item>
+<item>
+<jobTypeId>15</jobTypeId>
+<title>プログラマー</title>
+ <discription>awsやazureを用いてweb制作に必要な環境を整える</discription>
+ <difficulty>⭐️⭐️⭐️⭐️</difficulty>
+ <ability>予算管理、プロジェクトのスケジュール調整等</ability>
+</item>
+</div>

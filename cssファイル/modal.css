@@ -1,0 +1,105 @@
+* {
+  -webkit-box-sizing: border-box;
+          box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+.content {
+  margin: 0 auto;
+  padding: 40px;
+}
+
+.modal {
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.modal__bg {
+  background: rgba(0, 0, 0, 0.8);
+  height: 100vh;
+  position: absolute;
+  width: 100%;
+}
+
+.modal_contentBg {
+  background: #020202;
+  border: 1px solid #14047e;
+  opacity: 0.9;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  -webkit-transform: translate(-50%, -50%);
+          transform: translate(-50%, -50%);
+  width: 900px;
+  height: 600px;
+  border-radius: 5px;
+}
+
+.modal_contentBg .modal__content {
+  width: 900px;
+  font-weight: bold;
+  color: white;
+}
+
+.modal_contentBg .modal__content .modalHeader {
+  font-size: 50px;
+}
+
+.modal_contentBg .modal__content .workContent {
+  margin-top: 80px;
+  font-size: 30px;
+}
+
+.modal_contentBg .modal__content .difficultyLevel {
+  font-size: 30px;
+  margin-top: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.modal_contentBg .modal__content .difficultyLevel .star {
+  margin-left: 600px;
+}
+
+.modal_contentBg .modal__content .ability {
+  font-size: 30px;
+  margin-top: 80px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.modal_contentBg .modal__content .ability .contents {
+  margin-left: 540px;
+}
+
+.modal_contentBg .modal__content .closeBtn {
+  text-align: right;
+  margin-top: 50px;
+  margin-right: 20px;
+}
+
+.modal_contentBg .modal__content .js-modal-close {
+  background-color: rgba(182, 9, 9, 0.631);
+}
+
+.modal_contentBg:before {
+  content: '';
+  background: inherit;
+  -webkit-filter: blur(5px);
+  -moz-filter: blur(5px);
+  -o-filter: blur(5px);
+  -ms-filter: blur(5px);
+  filter: blur(20px);
+  position: absolute;
+  top: -5px;
+  left: -5px;
+  right: -5px;
+  bottom: -5px;
+  z-index: -1;
+}
+/*# sourceMappingURL=modal.css.map */
