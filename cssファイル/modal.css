@@ -68,9 +68,6 @@
 .modal_contentBg .modal__content .ability {
   font-size: 30px;
   margin-top: 80px;
-  display: -webkit-box;
-  display: -ms-flexbox;
-  display: flex;
 }
 
 .modal_contentBg .modal__content .ability .contents {
